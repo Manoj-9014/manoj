@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: pink;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+        
+}
+
+h1{
+color:firebrick;
+background-color: chocolate;
+}
+
+button{
+   background-color:aliceblue;
+ transform: scale 2s;;
+
+}
+button:hover{
+    background-color:cornflowerblue;
+    
+   
+}
